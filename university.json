@@ -1,0 +1,10 @@
+{
+  "slug": "gakushuin",
+  "name": "学習院大学",
+  "short": "学習院",
+  "campus": "目白キャンパス",
+  "building": "南1号館",
+  "color": "#18489a",
+  "repository": "baudroie/gakushuin-career-info",
+  "url": "https://baudroie.github.io/gakushuin-career-info/"
+}
